@@ -1,3 +1,9 @@
+.*.swp
+.*.swo
+statfs.c
+statfs-def.c
+*.o
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
