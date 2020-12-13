@@ -2,6 +2,7 @@
 .*.swo
 statfs.c
 statfs-def.c
+pystatfs.c
 *.o
 
 # Byte-compiled / optimized / DLL files
